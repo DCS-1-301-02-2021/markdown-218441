@@ -38,7 +38,6 @@
 
 
 
-
 ![GitHub Logo](logo.png)
 format: ![Alt Text](url)
 
